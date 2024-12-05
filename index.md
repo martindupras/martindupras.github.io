@@ -8,3 +8,5 @@ My research interests are in the following areas:
 - signal processing
 - synthesis techniques
 - spatial audio
+
+Most of my research is done using [PureData](https://puredata.info/) and [SuperCollider](https://supercollider.github.io/).
